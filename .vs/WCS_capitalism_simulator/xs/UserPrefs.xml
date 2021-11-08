@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{7791DC01-7DDF-46B2-9DF6-63BD44DBD6CB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WCS_capitalism_simulator/Migrations/OffshoreContextModelSnapshot.cs">
+    <Files>
+      <File FileName="WCS_capitalism_simulator/Program.cs" Line="34" Column="30" />
+      <File FileName="WCS_capitalism_simulator/SavingAccount.cs" Line="14" Column="47" />
+      <File FileName="WCS_capitalism_simulator/Person.cs" Line="8" Column="25" />
+      <File FileName="WCS_capitalism_simulator/SavingCalculator.cs" Line="6" Column="36" />
+      <File FileName="WCS_capitalism_simulator/OffshoreContext.cs" Line="1" Column="1" />
+      <File FileName="WCS_capitalism_simulator/Migrations/OffshoreContextModelSnapshot.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WCS_capitalism_simulator" expanded="True">
+            <Node name="WCS_capitalism_simulator" expanded="True">
+              <Node name="Migrations" expanded="True">
+                <Node name="OffshoreContextModelSnapshot.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WCS__capitalism__simulator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
