@@ -61,4 +61,4 @@
 /Users/jeremyg/Documents/WCS Projects/C#/WCS_capitalism_simulator/WCS_capitalism_simulator/obj/Debug/net5.0/WCS_capitalism_simulator.genruntimeconfig.cache
 /Users/jeremyg/Documents/WCS Projects/C#/WCS_capitalism_simulator/WCS_capitalism_simulator/bin/Debug/net5.0/Humanizer.dll
 /Users/jeremyg/Documents/WCS Projects/C#/WCS_capitalism_simulator/WCS_capitalism_simulator/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
-/Users/jeremyg/Documents/WCS Projects/C#/WCS_capitalism_simulator/WCS_capitalism_simulator/obj/Debug/net5.0/WCS_capitalism_simulator.csproj.CopyComplete
+/Users/jeremyg/Documents/WCS Projects/C#/WCS_capitalism_simulator/WCS_capitalism_simulator/bin/Debug/net5.0/WCS_capitalism_simulator

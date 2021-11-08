@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CfMhEnMo6MhtKaN7X+eNny6TOW0e9o+lNyD0RS6HfiBPJ4KXYFs6OkEbS0XuPuapBMnpYexcExBlLJOAPSGqSQ==",
+  "dgSpecHash": "btZTB1CE7iFEbcGHTAIyvihafNGtgykrfL77B7QDEx08+C9jNbC2sIaelPdESUZezb5yNrC8F5WilC0IM7S8CA==",
   "success": true,
   "projectFilePath": "/Users/jeremyg/Documents/WCS Projects/C#/WCS_capitalism_simulator/WCS_capitalism_simulator/WCS_capitalism_simulator.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,7 @@
     "/Users/jeremyg/.nuget/packages/microsoft.entityframeworkcore.design/5.0.12/microsoft.entityframeworkcore.design.5.0.12.nupkg.sha512",
     "/Users/jeremyg/.nuget/packages/microsoft.entityframeworkcore.relational/5.0.12/microsoft.entityframeworkcore.relational.5.0.12.nupkg.sha512",
     "/Users/jeremyg/.nuget/packages/microsoft.entityframeworkcore.sqlserver/5.0.12/microsoft.entityframeworkcore.sqlserver.5.0.12.nupkg.sha512",
+    "/Users/jeremyg/.nuget/packages/microsoft.entityframeworkcore.tools/5.0.12/microsoft.entityframeworkcore.tools.5.0.12.nupkg.sha512",
     "/Users/jeremyg/.nuget/packages/microsoft.extensions.caching.abstractions/5.0.0/microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "/Users/jeremyg/.nuget/packages/microsoft.extensions.caching.memory/5.0.0/microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
     "/Users/jeremyg/.nuget/packages/microsoft.extensions.configuration.abstractions/5.0.0/microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",

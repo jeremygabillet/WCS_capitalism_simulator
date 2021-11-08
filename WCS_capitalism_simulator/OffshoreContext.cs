@@ -1,16 +1,19 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using WCS_capitalism_simulator;
 
-namespace WCS_capitalism_simulator
+class OffshoreContext : DbContext // DbContext overriden
 {
-    public class OffshoreContext : DbContext
-    {
-        public virtual DbSet<Person> Persons { get; set; }
-        public virtual DbSet<SavingAccount> SavingAccounts { get; set; }
+    // Product entites can be accessed by this context
+    public virtual DbSet<Person> Persons { get; set; }
+    // Shop entities can be accessed by this context
+    public virtual DbSet<SavingAccount> Accounts { get; set; }
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            optionsBuilder.UseSqlServer(
-                @"Server=LOCALHOST\SQLEXPRESS;Database=Shop;Integrated Security=True");
-        }
+    // OnConfiguring is a hook that executes while the context configures itself
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    {
+        // I add a connection to a database instance while the context configures
+        optionsBuilder.UseSqlServer(
+            @"Server=localhost,1433;Database=Offshore;user id=sa;password=MyPass@word;");
+    
     }
 }
